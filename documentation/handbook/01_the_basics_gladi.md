@@ -111,8 +111,7 @@ However, several type-checking strictness flags can be set. The two biggest are 
 
 ## `noImplicitAny`
 Issues an error on any variable whose type is implicitly inferred as `any`.  
-<img width="506" alt="image" src="https://user-images.githubusercontent.com/43084680/168467230-8ccaa78d-6b32-4dd2-8018-7c34c412d272.png">
-
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/43084680/168467889-5428f116-3b84-4e05-95c9-0b522ef697d0.png">
 <br/>
 
 ## `strictNullChecks`

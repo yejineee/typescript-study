@@ -15,7 +15,7 @@
 
 | 회차(날짜) | Gladi | Yejineee | 진행 | 
 | -------- | -------- | -------- | ----|
-| 1회차(2022.05.11)     |     |   [01. the basics](documentation/handbook/01.the-basics_yejineee.md)   |  TypeScript Exercises (github) - 1 <br/> TS Handbook - [01. The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)     |
+| 1회차(2022.05.11)     |[01 - the basics](https://github.com/yejineee/typescript-study/blob/main/documentation/handbook/01_the_basics_gladi.md) |   [01. the basics](documentation/handbook/01.the-basics_yejineee.md)   |  TypeScript Exercises (github) - 1 <br/> TS Handbook - [01. The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)     |
 | 2회차(2022.05.18)   |       |       |  TypeScript Exercises (github) - 2 ~ 5 <br/> TS Handbook - [02. Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) (The Primitives ~ Working with Union Types) |
 
 <br/>

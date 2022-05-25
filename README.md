@@ -17,7 +17,8 @@
 | -------- | -------- | -------- | ----|
 | 1회차(2022.05.11)     |[01 - the basics](https://github.com/yejineee/typescript-study/blob/main/documentation/handbook/01_the_basics_gladi.md) |   [01. the basics](documentation/handbook/01.the-basics_yejineee.md)   | ▫︎ TypeScript Exercises (github) - 1 <br/> ▫︎ TS Handbook - [01. The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)     |
 | 2회차(2022.05.18)   |   [02 - everyday types pt1](https://github.com/jongeunk0613/book-study/blob/master/TypeScript%20-%20Documentation/2_Every_Types_pt1.md)      |    [02. Everyday Types](documentation/handbook/02.everyday-types_yejineee.md)   | ▫︎ TypeScript Exercises (github) - 2 ~ 5 <br/> ▫︎ TS Handbook - [02. Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) (The Primitives ~ Working with Union Types) |
-| 3회차(2022.05.25)   |       |       | ▫︎ TypeScript Exercises (github) - 6 <br/> ▫︎ TS Handbook - [02. Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) (Type Aliases ~ Less Common Primitives) <br /> ▫︎ Object와 primitive 차이 학습 |
+| 3회차(2022.05.25)   |       |       | ▫︎ TypeScript Exercises (github) - 6 <br/> ▫︎ TS Handbook - [02. Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) (Type Aliases ~ Literal Types)|
+| 4회차(2022.05.31)   |       |       | ▫︎ TypeScript Exercises (github) - 7 <br/> ▫︎ TS Handbook - [02. Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) (null & undefined ~ Less Common Primitives) <br /> ▫︎ Object와 primitive 차이 학습 <br /> ▫︎ treeshaking과 enum 학습 |
 <br/>
 
 ## Exercise

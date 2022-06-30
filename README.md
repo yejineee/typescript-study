@@ -20,7 +20,8 @@
 | 3회차(2022.05.25)   |[03 - everyday types pt2](https://github.com/yejineee/typescript-study/blob/main/documentation/handbook/03_everyday_types_pt2_gladi.md)| [03- everyday types pt2](https://github.com/yejineee/typescript-study/blob/main/documentation/handbook/02.everyday-types_yejineee.md#type-aliases)      | ▫︎ TypeScript Exercises (github) - 6 <br/> ▫︎ TS Handbook - [02. Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) (Type Aliases ~ Literal Types)|
 | 4회차(2022.05.31)   |       |       | ▫︎ TypeScript Exercises (github) - 7 <br/> ▫︎ TS Handbook - [02. Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) (null & undefined ~ Less Common Primitives) <br /> ▫︎ Object와 primitive 차이 학습 <br /> ▫︎ treeshaking과 enum 학습 |
 | 5회차(2022.06.16)   |       |       | ▫︎ TypeScript Exercises (github) - 8 <br/> ▫︎ TS Handbook - [03. Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html) (typeof type guards ~ Assignments)|
-| 6회차(2022.06.23)   |       |       | ▫︎ TypeScript Exercises (github) - 9 <br/> ▫︎ TS Handbook - [03. Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html) (Assignments ~ Exhaustiveness checking)|
+| 6회차(2022.06.30)   |       |       | ▫︎ TypeScript Exercises (github) - 9 <br/> ▫︎ TS Handbook - [03. Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html) (Assignments ~ Exhaustiveness checking)|
+| 7회차(2022.07.04)   |       |       | ▫︎ TypeScript Exercises (github) - 10 <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Function Type Expressions ~ Construct Signitures, Optional Parameters ~ Optional Parameters in Callback)|
 <br/>
 
 ## Exercise

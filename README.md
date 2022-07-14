@@ -21,7 +21,8 @@
 | 4회차(2022.05.31)   |       |       | ▫︎ TypeScript Exercises (github) - 7 <br/> ▫︎ TS Handbook - [02. Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) (null & undefined ~ Less Common Primitives) <br /> ▫︎ Object와 primitive 차이 학습 <br /> ▫︎ treeshaking과 enum 학습 |
 | 5회차(2022.06.16)   |       |       | ▫︎ TypeScript Exercises (github) - 8 <br/> ▫︎ TS Handbook - [03. Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html) (typeof type guards ~ Assignments)|
 | 6회차(2022.06.30)   |       |       | ▫︎ TypeScript Exercises (github) - 9 <br/> ▫︎ TS Handbook - [03. Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html) (Assignments ~ Exhaustiveness checking)|
-| 7회차(2022.07.04)   |       |       | ▫︎ TypeScript Exercises (github) - 10 <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Function Type Expressions ~ Construct Signitures, Optional Parameters ~ Optional Parameters in Callback)|
+| 7회차(2022.07.14)   |       |       | ▫︎ TypeScript Exercises (github) - 10 <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Function Type Expressions ~ Construct Signitures, Optional Parameters ~ Optional Parameters in Callback)|
+| 8회차(2022.07.21)   |       |       | ▫︎ TypeScript Exercises (github) - 10 <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Generic Functions ~ Guidelines for Writing Good Generic Functions)|
 <br/>
 
 ## Exercise

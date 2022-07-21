@@ -23,6 +23,7 @@
 | 6회차(2022.06.30)   |       |       | ▫︎ TypeScript Exercises (github) - 9 <br/> ▫︎ TS Handbook - [03. Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html) (Assignments ~ Exhaustiveness checking)|
 | 7회차(2022.07.14)   |       |       | ▫︎ TypeScript Exercises (github) - 10 <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Function Type Expressions ~ Construct Signitures, Optional Parameters ~ Optional Parameters in Callback)|
 | 8회차(2022.07.21)   |       |       | ▫︎ TypeScript Exercises (github) - 10 <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Generic Functions ~ Guidelines for Writing Good Generic Functions)|
+| 9회차(2022.07.28)   |       |       | ▫︎ TypeScript Exercises (github) - 10 <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Function Overloads ~ Declaring this in a Function)|
 <br/>
 
 ## Exercise

@@ -25,6 +25,8 @@
 | 8회차(2022.07.21)   |       |       | ▫︎ TypeScript Exercises (github) - 10 <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Generic Functions ~ Guidelines for Writing Good Generic Functions)|
 | 9회차(2022.08.24)   |       |       | ▫︎ TypeScript Exercises (github) - 10 <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Function Overloads ~ Declaring this in a Function)|
 | 10회차(2022.08.16)   |       |       | ▫︎ TypeScript Exercises (github) - 10 (including PromisyAll) <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Other Types to Know About ~ Return type void)|
+| 11회차(2022.08.23)   |       |       | ▫︎ TypeScript Exercises (github) - 11 <br/> ▫︎ TS Handbook - [05. Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html) (Property Modifiers
+ ~ Interfaces vs. Intersections)|
 <br/>
 
 ## Exercise

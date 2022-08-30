@@ -27,6 +27,7 @@
 | 10회차(2022.08.16)   |       |       | ▫︎ TypeScript Exercises (github) - 10 (including PromisyAll) <br/> ▫︎ TS Handbook - [04. More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html) (Other Types to Know About ~ Return type void)|
 | 11회차(2022.08.23)   |       |       | ▫︎ TypeScript Exercises (github) - 11 <br/> ▫︎ TS Handbook - [05. Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html) (Property Modifiers ~ Interfaces vs. Intersections)|
 | 12회차(2022.08.30)   |       |       | ▫︎ TypeScript Exercises (github) - 12 <br/> ▫︎ TS Handbook - [05. Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html) (Generic Object Types ~ readonly Tuple Types)|
+| 13회차(2022.09.06)   |       |       | ▫︎ TypeScript Exercises (github) - 13 <br/> ▫︎ TS Handbook - [06. Type Manipulation - Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html) (Hello World of Generics ~ Generic Types)|
 <br/>
 
 ## Exercise

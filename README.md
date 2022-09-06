@@ -28,6 +28,7 @@
 | 11회차(2022.08.23)   |       |       | ▫︎ TypeScript Exercises (github) - 11 <br/> ▫︎ TS Handbook - [05. Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html) (Property Modifiers ~ Interfaces vs. Intersections)|
 | 12회차(2022.08.30)   |       |       | ▫︎ TypeScript Exercises (github) - 12 <br/> ▫︎ TS Handbook - [05. Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html) (Generic Object Types ~ readonly Tuple Types)|
 | 13회차(2022.09.06)   |       |       | ▫︎ TypeScript Exercises (github) - 13 <br/> ▫︎ TS Handbook - [06. Type Manipulation - Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html) (Hello World of Generics ~ Generic Types)|
+| 14회차(2022.09.20)   |       |       | ▫︎ TypeScript Exercises (github) - 14 <br/> ▫︎ TS Handbook - [06. Type Manipulation - Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html) (Generic Classes ~ Using Class Types in Generics)|
 <br/>
 
 ## Exercise

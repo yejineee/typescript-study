@@ -30,6 +30,7 @@
 | 13회차(2022.09.06)   |       |       | ▫︎ TypeScript Exercises (github) - 13 <br/> ▫︎ TS Handbook - [06. Type Manipulation - Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html) (Hello World of Generics ~ Generic Types)|
 | 14회차(2022.09.20)   |       |       | ▫︎ TypeScript Exercises (github) - 14 <br/> ▫︎ TS Handbook - [06. Type Manipulation - Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html) (Generic Classes ~ Using Class Types in Generics)|
 | 15회차(2022.09.27)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) - Easy 1개 <br/> ▫︎ TS Handbook - [07. Type Manipulation - Keyof Type Operator](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html) -> [09. Type Manipulation - Indexed Access Types](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html)|
+| 16회차(2022.10.11)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [10. Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)|
 <br/>
 
 ## Exercise

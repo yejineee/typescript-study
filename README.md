@@ -32,6 +32,7 @@
 | 15회차(2022.09.27)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) - Easy 1개 <br/> ▫︎ TS Handbook - [07. Type Manipulation - Keyof Type Operator](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html) -> [09. Type Manipulation - Indexed Access Types](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html)|
 | 16회차(2022.10.04)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [10. Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)|
 | 17회차(2022.10.11)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [11. Mapped Types](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)|
+| 18회차(2022.10.18)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [12. Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)|
 <br/>
 
 ## Exercise

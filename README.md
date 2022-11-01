@@ -33,7 +33,8 @@
 | 16회차(2022.10.04)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [10. Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)|
 | 17회차(2022.10.11)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [11. Mapped Types](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)|
 | 18회차(2022.10.25)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [12. Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)|
-| 19회차(2022.10.31)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [13. Classes: Class Members - Index Signatures](https://www.typescriptlang.org/docs/handbook/2/classes.html)|
+| 19회차(2022.11.01)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [13. Classes: Class Members - Index Signatures](https://www.typescriptlang.org/docs/handbook/2/classes.html)|
+| 20회차(2022.11.07)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [13. Classes: Class Heritage - Member Visibility](https://www.typescriptlang.org/docs/handbook/2/classes.html)|
 <br/>
 
 ## Exercise

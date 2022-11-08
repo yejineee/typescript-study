@@ -35,6 +35,7 @@
 | 18회차(2022.10.25)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [12. Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)|
 | 19회차(2022.11.01)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [13. Classes: Class Members - Index Signatures](https://www.typescriptlang.org/docs/handbook/2/classes.html)|
 | 20회차(2022.11.07)   |       |       | ▫︎ [Type Challenge](https://github.com/type-challenges/type-challenges) (github) 1개 <br/> ▫︎ TS Handbook - [13. Classes: Class Heritage - Member Visibility](https://www.typescriptlang.org/docs/handbook/2/classes.html)|
+| 21회차(2022.11.13)   |       |       | ▫︎ TS Handbook - [13. Classes: Static Members - this at Runtime in Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)|
 <br/>
 
 ## Exercise
